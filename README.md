@@ -1,7 +1,7 @@
 # Git
 
 Hello everybody!  
-I'm [Farrokh](https://www.instagram.com/farrokhkarimi/). This is a short tutorial for [Git](https://git-scm.com/), [GitHub](https://github.com/), and [GitLab](https://gitlab.com/). Let's start.
+I'm [Farrokh](https://farrokhkarimi.github.io/). This is a short tutorial for [Git](https://git-scm.com/), [GitHub](https://github.com/), and [GitLab](https://gitlab.com/). Let's start.
 
 ## Installation
 You can download Git source from <https://git-scm.com/downloads> or install it using teminal command. For example You can use the following command to install Git on Ubuntu:
